@@ -20,7 +20,7 @@ body {
     z-index: 10;
 }
 .logo {
-    width: 400px;
+    width: 350px;
     margin-bottom: 20px;
 }
 
@@ -143,20 +143,38 @@ body {
     text-align: center ;
 }
 .text1{
+    background-color: #857650;
+    background-size: 3px;
+    border-radius: 25px;
     position: center;
     top: 100px;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    color: #857650;
+    color: black;
     z-index: 4;
     text-align: center ;
 }
 .text2{
+    background-color: #857650;
+    background-size: 15px;
+    border-radius: 25px;
     position: center;
     top: 300px;
     font-size: 25px;
     font-family: 'Courier New', Courier, monospace;
-    color: #857650;
+    color: black;
+    z-index: 4;
+    text-align: center ;
+}
+.text3{
+    background-color: #857650;
+    background-size: 15px;
+    border-radius: 25px;
+    position: center;
+    top: 500px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
     z-index: 4;
     text-align: center ;
 }
